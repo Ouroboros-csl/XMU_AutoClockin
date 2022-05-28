@@ -22,6 +22,7 @@ pip install requirements.txt -r
 3. 打开qq邮箱smtp服务
 
 4. 编写config.json文件
+```
 {
     "username" : "你的学号", 
     "password" : "你的密码", 
@@ -31,5 +32,5 @@ pip install requirements.txt -r
     "pwd" : "smtp的密钥",  
     "sender_qq_mail" : "你的qq邮箱"
 }
-
+```
 5. 点击批处理文件即可自动运行
